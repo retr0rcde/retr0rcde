@@ -1,4 +1,4 @@
-👋 Hola, soy Roger Margalef (aka weanonymousroot)
+👋 Hola, soy Roger Margalef    | (aka weanonymousroot)
 
 💻 Apasionado por la ciberseguridad y el pentesting.
 🔐 Practicando diariamente en Hack The Box, VulnHub y entornos de laboratorio.
