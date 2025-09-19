@@ -2,7 +2,7 @@
 
 💻 Apasionado por la ciberseguridad y el pentesting.
 🔐 Practicando diariamente en Hack The Box, VulnHub y entornos de laboratorio.
-🚀 Estudiante en 4Geeks Academy y en constante formación en Red Team y Blue Team.
+🚀 Graduado en 4Geeks Academy y en constante formación en Red Team y Blue Team.
 🛠️ Tecnologías & Herramientas
 
     Lenguajes: Python, Bash
