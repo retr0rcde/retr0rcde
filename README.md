@@ -12,11 +12,11 @@
         Explotación: Metasploit, SQLmap, Hydra, Medusa
         Cracking de contraseñas: John the Ripper, Hashcat, Hydra, Medusa
         Post-explotación y escalada: LinPEAS, WinPEAS, pspy, GTFOBins, Evil-WinRM, Mimikatz
-        Active Directory: BloodHound, SharpHound, Impacket Toolkit
+        Active Directory: BloodHound, SharpHound, Impacket Toolkit, NetExec 
         Web: Burp Suite, ZAP Proxy, XSStrike, wfuzz, ffuf
         Wireless: Aircrack-ng, Reaver, Wifite
 
-    OS: Kali Linux, Parrot Security, Athena OS, Debian
+    OS: Kali Linux, Parrot Security, Athena OS, Debian, Arch Linux 
 
     Blue Team: Wazuh, Wireshark, Zeek, Suricata, UFW, Fail2Ban, SIEM
 
